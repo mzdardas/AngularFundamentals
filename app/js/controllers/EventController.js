@@ -1,6 +1,6 @@
 'use strict';
 
-var EventController = function($scope){
+var EventController = function($scope){    
     $scope.event = {
         name: 'Angular Boot Camp',
         date: '6/30/2017',
